@@ -28,4 +28,3 @@ dataset contains the following variables:
 6. Display the distinct values of the variable PREMATURE and visualise the distribution
 of the associated observations using a countplo
 
-Translated with DeepL.com (free version)
